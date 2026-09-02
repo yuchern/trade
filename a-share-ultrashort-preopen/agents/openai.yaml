@@ -1,0 +1,7 @@
+interface:
+  display_name: "A股超短盘前策略"
+  short_description: "按三轴环境、净盈亏比与个人样本制定A股超短盘前计划"
+  default_prompt: "Use $a-share-ultrashort-preopen to analyze my A-share candidates and holdings before the open."
+
+policy:
+  allow_implicit_invocation: false
